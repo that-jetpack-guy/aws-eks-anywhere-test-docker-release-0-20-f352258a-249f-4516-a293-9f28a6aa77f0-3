@@ -36,7 +36,7 @@ spec:
   managementCluster:
     name: release-0-20-i-0d617-2c27bc6
   workerNodeGroupConfigurations:
-  - count: 1
+  - count: 3
     machineHealthCheck:
       maxUnhealthy: 40%
     name: md-0
